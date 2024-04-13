@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 🧋 Ask me about the best milk teas 
 - 📫 Reach out: bournm@oregonstate.edu
 - ⚡ Fun fact: I was born in China but speak German and Hindi.
+
+# Tools & Technologies
+[![Tools & Technologies](https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,docker,graphql,kubernetes,linux,mongodb,mysql,vscode)](https://skillicons.dev)
