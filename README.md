@@ -1,4 +1,4 @@
-# Welcome 👋 , my name is McKenzie.
+# Welcome to my 🌎 , my name is McKenzie.
 <!--
 **kenziebourn/kenziebourn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Welcome to my library of random projects
 
 # Tools & Technologies
 [![Tools & Technologies](https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,docker,graphql,kubernetes,linux,mongodb,mysql,vscode)](https://skillicons.dev)
