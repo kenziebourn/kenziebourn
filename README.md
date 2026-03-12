@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 by day☀️, 𝓭𝓮𝓼𝓲𝓰𝓷𝓮𝓻 by night🌙.
+
 
 # Tools & Technologies
-[![Tools & Technologies](https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,docker,graphql,kubernetes,linux,mongodb,mysql,vscode)](https://skillicons.dev)
+[![Tools & Technologies](https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,terraform,aws,azure,docker,kubernetes,linux,mongodb,mysql)](https://skillicons.dev)
